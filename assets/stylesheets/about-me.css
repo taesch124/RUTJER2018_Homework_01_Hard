@@ -1,0 +1,47 @@
+/*
+=============================================
+About Me
+=============================================
+*/
+
+hr {
+    margin-right: 1em; 
+}
+
+.about_me {
+    margin-left: 2em;
+    position: relative;
+    min-height: fit-content;
+    height: fit-content;
+}
+
+#about_me_content {
+    position: relative;
+    top: -1.5em;
+    bottom: 0;
+    left: -2em;
+    right: 0;
+    height: fit-content;
+}
+
+#portrait {
+    min-width: 240px;
+    width: 10vh;
+    height: auto;
+    float: left;
+    margin: 0 1.5em .75em 0;
+    border-radius: 5px;
+}
+
+
+.bio {
+    padding-left: 4em;
+}
+
+#about_me_header {
+    padding-top: 2em;
+}
+
+.bio {
+    padding-bottom: .6em;
+}
